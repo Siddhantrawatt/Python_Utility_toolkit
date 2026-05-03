@@ -1,3 +1,41 @@
+# 🧹 Temp File Archiver (Python Utility Tool)
+
+A Python-based utility tool that scans system temporary files, archives useful content, detects duplicates, and optionally deletes unnecessary files.
+
+---
+
+## 🚀 Features
+
+* Detects temporary files from system directories
+* Archives file contents into a structured format
+* Identifies duplicate files based on content
+* Option to delete original files
+* Restore archived files when needed
+
+---
+
+## 🧠 What I Learned
+
+* Object-Oriented Programming (OOP) in Python
+* File handling and system-level operations
+* Working with OS paths and directories
+* Structuring code into reusable components
+
+---
+
+## ⚙️ How to Run
+
+```bash
+python finalProject.py
+```
+
+---
+
+## 📌 Note
+
+This project was built as part of my learning journey to move from basic coding to building structured and practical tools.
+
+---
 🚀 Week 3 of my Tech Journey -
 
 This week I focused on moving beyond basic coding and started building something more structured.
